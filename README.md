@@ -1,6 +1,6 @@
 # Angel A. Pérez
 
-**Founder & CEO | Arquitecto de sistemas e investigador de tecnología profunda **
+**Founder & CEO | Arquitecto de sistemas e investigador de tecnología profunda**
 
 ---
 
