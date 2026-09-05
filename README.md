@@ -37,4 +37,4 @@ Arquitecto de sistemas, científico y emprendedor en serie que diseña el futuro
 ### 📫 Conecta conmigo
 [LinkedIn](https://www.linkedin.com/in/angelsentis) | [Instagram](https://www.instagram.com/angelperezplz)
 
-**"No solo estamos creando software; estamos diseñando un legado. Mantente Elite."**
+**"No solo estamos creando software; estamos diseñando un legado. Mantente en la Elite."**
