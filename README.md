@@ -15,7 +15,7 @@ Arquitecto de sistemas, científico y emprendedor en serie que diseña el futuro
 * **[Aetherlink®]:** Ecosistema de redes descentralizadas de doble capa (**Omninet®** y **Ultranet®**), desarrollado en Rust y que aprovecha la integración con satélites LEO.
 * **[Quice®]:** Ecosistema de electrónica de consumo integrado verticalmente que incluye hardware propio, dispositivos móviles seguros y desarrollo de sistemas operativos.
 * **[SolariX®]:** Corporación de ingeniería aeroespacial y marítima centrada en sistemas de propulsión reutilizables e infraestructura multiplanetaria.
-* **[ARCA®]: ** Agencia de investigación y computación avanzada centrada en la mecánica cuántica, la arquitectura de AGI y la resiliencia neurológica.
+* **[ARCA®]:** Agencia de investigación y computación avanzada centrada en la mecánica cuántica, la arquitectura de AGI y la resiliencia neurológica.
 
 ---
 
@@ -37,4 +37,4 @@ Arquitecto de sistemas, científico y emprendedor en serie que diseña el futuro
 ### 📫 Conecta conmigo
 [LinkedIn](https://www.linkedin.com/in/angelsentis) | [Instagram](https://www.instagram.com/angelperezplz)
 
-"No solo estamos creando software; estamos diseñando un legado. Mantente Elite."
+**"No solo estamos creando software; estamos diseñando un legado. Mantente Elite."**
