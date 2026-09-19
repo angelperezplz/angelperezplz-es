@@ -1,4 +1,4 @@
-# Angel A. Pérez
+# Angel Alejandro Pérez Plaza
 
 **Founder & CEO | Arquitecto de sistemas e investigador de tecnología profunda**
 
@@ -35,6 +35,6 @@ Arquitecto de sistemas, científico y emprendedor en serie que diseña el futuro
 ---
 
 ### 📫 Conecta conmigo
-[LinkedIn](https://www.linkedin.com/in/angelsentis) | [Instagram](https://www.instagram.com/angelperezplz)
+[LinkedIn](https://www.linkedin.com/in/angelperezplz) | [X(Twitter)](https://x.com/angelperezplz)
 
 **"No solo estamos creando software; estamos diseñando un legado. Mantente en la Elite."**
